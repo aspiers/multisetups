@@ -3,3 +3,4 @@ package-lock.json
 **/build
 .git/
 scripts/git-snapshot.sh
+scripts/docker-build.sh
